@@ -1,0 +1,3 @@
+pasos 
+
+clonar repositorio
